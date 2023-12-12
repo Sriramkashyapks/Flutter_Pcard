@@ -22,7 +22,7 @@ class Home extends StatelessWidget {
                   radius: 40,
                 ),
                 Padding(
-                  padding: const EdgeInsets.only(left: 40.0),
+                  padding: const EdgeInsets.only(left: 20.0),
                   child: Column(
                     children: <Widget>[
                       Text(
@@ -108,7 +108,7 @@ class Home extends StatelessWidget {
                     children: <Widget>[
                       Icon(Icons.mail),
                       SizedBox(
-                        width: 20,
+                        width: 10,
                       ),
                       Text(
                         "kssriramkashyap002@gmail.com",
