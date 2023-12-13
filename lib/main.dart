@@ -19,16 +19,16 @@ class Home extends StatelessWidget {
             Row(
               children: <Widget>[
                 CircleAvatar(
-                  radius: 40,
+                  radius: 40, backgroundImage: AssetImage("images/Sriram.jpg"),
                 ),
                 Padding(
                   padding: const EdgeInsets.only(left: 20.0),
                   child: Column(
                     children: <Widget>[
                       Text(
-                        "Sriram Kashyap",
+                        "K S Sriram Kashyap",
                         style: TextStyle(
-                            fontSize: 30, fontWeight: FontWeight.bold),
+                            fontSize: 30, fontFamily: "Velvetta", fontWeight: FontWeight.bold),
                       ),
                       Text(
                         "IOS Developer",
