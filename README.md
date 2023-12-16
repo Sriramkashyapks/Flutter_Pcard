@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Here I've Created my portfolio to get started with flutter and get a Hands-on experience in it.
+Here I've Created my portfolio to get started with flutter and get a Hands-on experience in it. 
+While building this project, I got to know about the basic skeleton of a Flutter App like widget, children, sizedBox, Scaffold and how to use the columns and rows to build the app.
 
 Recomend you a few resources to get you started if you want to create your first Flutter project:
 
